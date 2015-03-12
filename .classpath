@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/cassandra-jdbc-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/cassandra-thrift-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/cassandra-all-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/cassandra-all-1.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/hector-core-1.0-5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/hector-core-1.0-5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/hector-core-1.0-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/libthrift-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/jcl-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/jcl-over-slf4j-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/jul-to-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/jul-to-slf4j-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/log4j-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/log4j-over-slf4j-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-ext-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-ext-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-jcl-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-jcl-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-jdk14-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-jdk14-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-log4j12-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-migrator-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-nop-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-nop-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/R.Vishnupriya/Desktop/226 - proj2/slf4j-1.7.5/slf4j-1.7.5/slf4j-simple-1.7.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
